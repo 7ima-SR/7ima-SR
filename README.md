@@ -8,6 +8,8 @@ Cyber Security Intern | Python Automation | BackEnd Developer
 ![Cisco Certified](https://img.shields.io/badge/Cisco%20Certified-Networking-blue?style=for-the-badge&logo=cisco&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Ethical%20Hacking-red?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![FutureLearn](https://img.shields.io/badge/FutureLearn-Cyber%20Security-purple?style=for-the-badge&logo=futurelearn&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=7ima-SR&label=Profile%20Views&color=0891b2&style=for-the-badge)
+
 
 
 I’m a passionate Cyber Security and Networking enthusiast with a growing skill set in ethical hacking, penetration testing, and secure programming.
