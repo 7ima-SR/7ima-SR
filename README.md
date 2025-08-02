@@ -4,13 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security Intern | Python Automation | BackEnd Developer
 -------------------------------------------------------------
 
-![Profile Views](https://komarev.com/ghpvc/?username=7ima-SR&color=blue&style=flat-square)
 ![Cisco Certified](https://img.shields.io/badge/Cisco%20Certified-Networking-blue?style=for-the-badge&logo=cisco&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Ethical%20Hacking-red?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![FutureLearn](https://img.shields.io/badge/FutureLearn-Cyber%20Security-purple?style=for-the-badge&logo=futurelearn&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=7ima-SR&label=Profile%20Views&color=0891b2&style=for-the-badge)
-
-
 
 I’m a passionate Cyber Security and Networking enthusiast with a growing skill set in ethical hacking, penetration testing, and secure programming.
 
@@ -42,6 +38,9 @@ Let’s connect and grow together!
 
 <a href="https://www.github.com/7ima-SR" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/7ima-SR?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=7ima-SR&label=Profile%20Views&color=0891b2&style=for-the-badge)
+
 ### Skills
 
 <p align="left">
