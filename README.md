@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ibrahim Elsaied
 =======================================================================================================================================
 
-Cyber Security Intern | Python Automation | BackEnd Developer
+## Cyber Security Intern | Python Automation | BackEnd Developer
 -------------------------------------------------------------
 
 I’m a passionate Cyber Security and Networking enthusiast with a growing skill set in ethical hacking, penetration testing, and secure programming.
@@ -27,7 +27,7 @@ Let’s connect and grow together!
 #CyberSecurity #Python #Networking #EthicalHacking #Linux #Laravel #BugBounty
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [My Profile](http://https://ibrahim-elsaied.netlify.app/)
+* 🖥️  See my portfolio at [My Profile](http://ibrahim-elsaied.netlify.app/)
 * ✉️  You can contact me at [ibrahim.cybersec.engineer@gmail.com](mailto:ibrahim.cybersec.engineer@gmail.com)
 * 🤝  I'm open to collaborating on Web Development and Cyber Secrity Projects
 * ⚡  Living, learning, & leveling up one day at a time.
