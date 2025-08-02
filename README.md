@@ -4,9 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security Intern | Python Automation | BackEnd Developer
 -------------------------------------------------------------
 
-![Cisco Certified](https://img.shields.io/badge/Cisco%20Certified-Networking-blue?style=for-the-badge&logo=cisco&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Ethical%20Hacking-red?style=for-the-badge&logo=tryhackme&logoColor=white)
-![FutureLearn](https://img.shields.io/badge/FutureLearn-Cyber%20Security-purple?style=for-the-badge&logo=futurelearn&logoColor=white)
+<a href="https://www.credly.com/users/ibrahim-elsaied.a50816f3" target="_blank">
+  <img src="https://img.shields.io/badge/Cisco%20Certified-Networking-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certified Badge"/>
+</a> <a href="https://tryhackme.com/p/hima177" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-Ethical%20Hacking-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
+</a>
 
 I’m a passionate Cyber Security and Networking enthusiast with a growing skill set in ethical hacking, penetration testing, and secure programming.
 
