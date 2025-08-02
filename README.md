@@ -37,9 +37,7 @@ Let’s connect and grow together!
 * ⚡  Living, learning, & leveling up one day at a time.
 
 <a href="https://www.github.com/7ima-SR" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/7ima-SR?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=7ima-SR&label=Profile%20Views&color=0891b2&style=for-the-badge)
+src="https://img.shields.io/github/followers/7ima-SR?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> ![Profile Views](https://komarev.com/ghpvc/?username=7ima-SR&label=Profile%20Views&color=0891b2&style=for-the-badge)
 
 ### Skills
 
