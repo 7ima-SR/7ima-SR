@@ -10,8 +10,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
+</p>
 
----
 
 ### Cyber Security Intern | Bug Bounty | Python Automation | Backend Developer
 
@@ -24,7 +26,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
+</p>
 
 ## 🧠 About Me
 
@@ -46,7 +50,9 @@ Currently expanding my knowledge in **Linux security, Bash scripting, and bug bo
 
 🔍 Open to **internships, training, and freelance opportunities** in Cyber Security, Networking, or Python Automation.
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
+</p>
 
 ## 🌍 Personal Info
 - 🌍 Based in Egypt  
@@ -55,7 +61,9 @@ Currently expanding my knowledge in **Linux security, Bash scripting, and bug bo
 - 🤝 Open to collaboration on **Cyber Security & Backend Projects**  
 - ⚡ Living, learning & leveling up every day  
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
+</p>
 
 ## 🔐 Cyber Security Focus
 - Web Application Security (OWASP Top 10)
@@ -71,7 +79,9 @@ Nmap • Burp Suite • SQLmap • Wireshark • Metasploit • Gobuster
 **Platforms:**  
 TryHackMe • PortSwigger Web Security Academy • Hack The Box
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
+</p>
 
 ## 🛠️ Skills
 
@@ -109,7 +119,9 @@ TryHackMe • PortSwigger Web Security Academy • Hack The Box
 <img src="https://img.icons8.com/color/48/lock--v1.png" width="36"/>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
+</p>
 
 ## 🌐 Socials
 <p align="center">
@@ -167,7 +179,9 @@ TryHackMe • PortSwigger Web Security Academy • Hack The Box
 </p>
 
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
+</p>
 
 ## 🏆 GitHub Stats
 
@@ -180,14 +194,18 @@ TryHackMe • PortSwigger Web Security Academy • Hack The Box
 
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=7ima-SR&style=for-the-badge&color=blue"/>
   <img src="https://img.shields.io/github/followers/7ima-SR?style=for-the-badge"/>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
+</p>
 
 ⭐ *Let’s learn, hack, and build secure systems together.*
 <p align="center">
