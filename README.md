@@ -95,6 +95,7 @@ TryHackMe • PortSwigger Web Security Academy • Hack The Box
 ### Backend
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" alt="C++"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36"/>
@@ -113,11 +114,27 @@ TryHackMe • PortSwigger Web Security Academy • Hack The Box
 
 ### Network & Cyber Security
 <p align="left">
-<img src="https://img.icons8.com/color/48/cisco-router.png" width="36"/>
-<img src="https://img.icons8.com/color/48/nmap.png" width="36"/>
-<img src="https://img.icons8.com/color/48/kali-linux.png" width="36"/>
-<img src="https://img.icons8.com/color/48/lock--v1.png" width="36"/>
+  <!-- Networking -->
+  <img src="https://img.icons8.com/color/48/cisco-router.png" width="36" alt="Cisco"/>
+  <img src="https://img.icons8.com/color/48/network.png" width="36" alt="Networking"/>
+  <img src="https://img.icons8.com/color/48/switch.png" width="36" alt="Network Switch"/>
+
+  <!-- Recon & Scanning -->
+  <img src="https://img.icons8.com/color/48/nmap.png" width="36" alt="Nmap"/>
+  
+  <!-- Pentesting OS & Tools -->
+  <img src="https://img.icons8.com/color/48/kali-linux.png" width="36" alt="Kali Linux"/>
+  <img src="https://img.icons8.com/color/48/bug.png" width="36" alt="Bug Bounty"/>
+
+  <!-- Web & App Security -->
+  <img src="https://img.icons8.com/color/48/lock--v1.png" width="36" alt="Security"/>
+  <img src="https://img.icons8.com/color/48/firewall.png" width="36" alt="Firewall"/>
+  <img src="https://img.icons8.com/color/48/web-shield.png" width="36" alt="Web Security"/>
+
+  <!-- Platforms -->
+  <img src="https://img.icons8.com/color/48/linux--v1.png" width="36" alt="Linux Security"/>
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
