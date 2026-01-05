@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber+Security+Intern;Bug+Bounty+Learner;Python+Automation;Backend+Developer&center=true&width=500&height=45">
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</p>
+
+
 ---
 
 ### Cyber Security Intern | Bug Bounty | Python Automation | Backend Developer
@@ -167,18 +172,13 @@ TryHackMe • PortSwigger Web Security Academy • Hack The Box
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=7ima-SR&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=7ima-SR&theme=tokyonight&hide_border=true"/>
-</p>
+<!-- Trophy with animated hover effect -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=7ima-SR&theme=radical&row=1&column=6" alt="Trophies" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ima-SR&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=7ima-SR&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
