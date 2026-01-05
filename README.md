@@ -107,75 +107,60 @@ TryHackMe • PortSwigger Web Security Academy • Hack The Box
 ---
 
 ## 🌐 Socials
-<p align="left">
+<p align="center">
 
+<!-- DEV.to -->
 <a href="https://www.dev.to/7ima_sr" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg"
-      width="32" height="32" alt="DEV" title="DEV" />
-  </picture>
+  <img src="https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV"/>
 </a>
 
+<!-- Facebook -->
 <a href="https://www.facebook.com/ibrahim.elsaied.635267" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg"
-      width="32" height="32" alt="Facebook" title="Facebook" />
-  </picture>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
+<!-- GitHub -->
 <a href="https://www.github.com/7ima-SR" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-      width="32" height="32" alt="GitHub" title="GitHub" />
-  </picture>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+<!-- Instagram -->
 <a href="http://www.instagram.com/7_im_a_" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
-      width="32" height="32" alt="Instagram" title="Instagram" />
-  </picture>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/ibrahim-elsaied-" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-      width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-  </picture>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+<!-- Stack Overflow -->
 <a href="https://www.stackoverflow.com/users/23337806" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg"
-      width="32" height="32" alt="Stack Overflow" title="Stack Overflow" />
-  </picture>
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+</a>
+
+<!-- TryHackMe -->
+<a href="https://tryhackme.com/p/hima177" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+</a>
+
+<!-- HackerOne -->
+<a href="https://hackerone.com/7ima_sr" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/HackerOne-00E676?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"/>
+</a>
+
+<!-- Bugcrowd -->
+<a href="https://bugcrowd.com/7ima_sr" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Bugcrowd-1E1E1E?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd"/>
+</a>
+
+<!-- HTB -->
+<a href="https://www.hackthebox.eu/home/users/profile/123456" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/HackTheBox-3F3F3F?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box"/>
 </a>
 
 </p>
+
 
 ---
 
