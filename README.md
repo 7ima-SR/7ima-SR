@@ -202,25 +202,26 @@ TryHackMe • PortSwigger Web Security Academy • Hack The Box
 
 ## 🏆 GitHub Stats
 
-<!-- Main Stats -->
 <p align="center">
+  <!-- Main GitHub Stats (fixed & working) -->
   <img src="https://github-readme-stats.vercel.app/api?username=7ima-SR&show_icons=true&count_private=true&hide=prs,contribs&theme=radical" alt="GitHub Stats"/>
 </p>
 
-<!-- Top Languages -->
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ima-SR&layout=compact&hide=other&theme=radical" alt="Top Languages"/>
 </p>
 
-<!-- Trophy -->
 <p align="center">
+  <!-- Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=7ima-SR&theme=radical&row=1&column=6" alt="GitHub Trophy"/>
 </p>
 
-<!-- Streak -->
 <p align="center">
+  <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=7ima-SR&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 
 
 <p align="center">
