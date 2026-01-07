@@ -184,7 +184,7 @@ TryHackMe • PortSwigger Web Security Academy • Hack The Box
 </a>
 
 <!-- Bugcrowd -->
-<a href="https://bugcrowd.com/7ima_sr" target="_blank" rel="noreferrer">
+<a href="https://bugcrowd.com/h/7ima_SR" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Bugcrowd-1E1E1E?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd"/>
 </a>
 
