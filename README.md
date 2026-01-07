@@ -206,7 +206,7 @@ TryHackMe • PortSwigger Web Security Academy • Hack The Box
 
 <!-- Trophy with animated hover effect -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=7ima-SR&theme=radical&row=1&column=6" alt="Trophies" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=7ima-SR&theme=radical>
 </a>
 
 </p>
