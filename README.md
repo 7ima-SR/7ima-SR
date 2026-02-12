@@ -164,7 +164,7 @@ TryHackMe • PortSwigger Web Security Academy • Hack The Box
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/ibrahim-elsaied-" target="_blank" rel="noreferrer">
+<a href="www.linkedin.com/in/eng-ibrahim-elsaied" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
