@@ -57,7 +57,6 @@ Currently expanding my knowledge in **Linux security, Bash scripting, and bug bo
 ## 🌍 Personal Info
 - 🌍 Based in Egypt  
 - 🖥️ Portfolio: [ibrahim-elsaied.netlify.app](http://ibrahim-elsaied.netlify.app/)  
-- ✉️ Email: ibrahim.cybersec.engineer@gmail.com  
 - 🤝 Open to collaboration on **Cyber Security & Backend Projects**  
 - ⚡ Living, learning & leveling up every day  
 
@@ -148,20 +147,12 @@ TryHackMe • PortSwigger Web Security Academy • Hack The Box
   <img src="https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV"/>
 </a>
 
-<!-- Facebook -->
-<a href="https://www.facebook.com/ibrahim.elsaied.635267" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
 
 <!-- GitHub -->
 <a href="https://www.github.com/7ima-SR" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<!-- Instagram -->
-<a href="http://www.instagram.com/7_im_a_" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/eng-ibrahim-elsaied" target="_blank" rel="noreferrer">
